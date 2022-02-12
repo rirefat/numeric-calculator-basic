@@ -6,7 +6,7 @@
     font-family: sans-serif;
 }
 .container{
-    height: 100vh;
+    height: 96vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -50,4 +50,8 @@ button:hover{
 .equal{
     width: 115px;
     border-radius: 25px;
+}
+
+footer{
+    text-align: center;
 }
